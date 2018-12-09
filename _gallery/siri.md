@@ -1,5 +1,5 @@
 ---
-author: evabat
+author: johngiakoum
 title: Siri
 image_url: /images/siri.jpg
 caption: 'O έξυπνος βοηθός SIRI της Apple χρησιμοποιώντας τεχνητή νοημοσύνη εμφανίσθηκε το 2010. Συνδέθηκε με ένα πλήθος υπηρεσιών διαδικτύου όπως 
