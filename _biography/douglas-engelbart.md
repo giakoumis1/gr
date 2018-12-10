@@ -8,7 +8,6 @@ categories:
   - definition
 tags:
   - Douglas Engelbart
-
   - mouse
   - bitmap screens
   - SRI
