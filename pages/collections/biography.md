@@ -14,6 +14,13 @@ header: no
   {% endfor %}
 </div>
 
+<div class="grid__wrapper">
+  {% for item in site.biography %}
+    {% include gallery-item.html type="grid" %}
+  {% endfor %}
+</div>
+
+
 coming soon...
 
 [Douglas Engelbart]
