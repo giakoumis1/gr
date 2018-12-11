@@ -1,7 +1,7 @@
 ---
 author: johngiakoum
 title: " Douglas Engelbart "
-image_url: /images/ engelbart.jpg
+image_url: /images/engelbart.jpg
 caption: 'O Douglas Engelbart επικέντρωσε την καριέρα του στο να κάνει ένα κόσμο καλύτερο θεωρώντας ότι οι υπολογιστές ήταν το μέσο να αυξηθεί η ικανότητα των ανθρώπων να επιλύουν τα προβλήματα τους.'
 categories:
   - biography
