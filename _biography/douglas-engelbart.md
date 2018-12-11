@@ -12,12 +12,12 @@ tags:
   - bitmap screens
   - SRI
 gallery:
-  - image_url: /images/ engelbart.jpg
-    caption: ''
-  - image_url: /images/ engelbart1.jpg
-    caption: ''
-  - image_url: /images/ engelbart2.jpg
-    caption: ''
+  - image_url: /images/engelbart.jpg
+    caption: '.'
+  - image_url: /images/engelbart1.jpg
+    caption: '.'
+  - image_url: /images/engelbart2.jpg
+    caption: '.'
 ---
 
 {% include_relative bio-engelbart.md %}
